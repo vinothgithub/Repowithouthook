@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+  <page name="HomePage">
+    <Variables>
+      <variable code="s.prop1" value="FR"></variable>
+      <variable code="s.prop2" value="Redcats FR"></variable>
+      <variable code="s.prop3" value="LaRedoute"></variable>
+      <variable code="s.prop4" value=""></variable>
+      <variable code="s.prop5" value="LaRedoute FR"></variable>
+      <variable code="s.prop10" value="null"></variable>
+      <variable code="s.prop40" value="NULL"></variable>
+      <variable code="s.eVar0" value="test"></variable>
+      <variable code="s.eVar1" value="FR"></variable>
+      <variable code="s.eVar2" value="Redcats FR"></variable>
+      <variable code="s.eVar3" value="LaRedoute"></variable>
+      <variable code="s.eVar4" value=""></variable>
+      <variable code="s.eVar5" value="LaRedoute FR"></variable>
+      <variable code="s.eVar35" value="test"></variable>
+      <variable code="s.eVar36" value="test"></variable>
+      <variable code="s.eVar37" value="test"></variable>
+      <variable code="s.eVar38" value="test"></variable>
+      <variable code="s.eVar39" value="test"></variable>
+      <variable code="s.eVar40" value="NULL"></variable>
+      <variable code="s.pageName" value="FR:RE:HP:Home Page"></variable>
+      <variable code="s.channel" value="HP"></variable>
+      <variable code="s.server" value=""></variable>
+      <variable code="s.campaign" value="Test"></variable>
+    </Variables>
+  </page>
+
+  <page name="LandingPage">
+    <Variables>
+      <variable code="s.prop1" value="FR"></variable>
+      <variable code="s.prop2" value="Redcats FR"></variable>
+      <variable code="s.prop3" value="LaRedoute"></variable>
+      <variable code="s.prop4" value=""></variable>
+      <variable code="s.prop5" value="LaRedoute FR"></variable>
+      <variable code="s.prop6" value="Electromenager, beaute"></variable>
+      <variable code="s.prop7" value="Four, cuisiniere, plaque de cuisson, ..."></variable>
+      <variable code="s.prop12" value="Omniture_ST_sprop12"></variable>
+      <variable code="s.prop40" value="NULL"></variable>
+      <variable code="s.prop42" value="Omniture_MV_sprop42"></variable>
+      <variable code="s.eVar1" value="FR"></variable>
+      <variable code="s.eVar2" value="Redcats FR"></variable>
+      <variable code="s.eVar3" value="LaRedoute"></variable>
+      <variable code="s.eVar4" value=""></variable>
+      <variable code="s.eVar5" value="LaRedoute FR"></variable>
+      <variable code="s.eVar18" value="Electromenager, beaute:Four, cuisiniere, plaque de cuisson, ...:H8F"></variable>
+      <variable code="s.eVar21" value="electro:zsa:20joursmaison"></variable>
+      <variable code="s.eVar40" value="NULL"></variable>
+      <variable code="s.eVar42" value="Omniture_MV_seVar42"></variable>
+      <variable code="s.pageName" value="FR:RE:CAT:Electromenager, beaute:Four, cuisiniere, plaque de cuisson, ..."></variable>
+      <variable code="s.server" value="MISDC1WEBPR"></variable>
+    </Variables>
+  </page>
+  
+  <Servers>
+    <ProductionServer name="MISDC2WEBPR21"></ProductionServer>
+    <ProductionServer name="MISDC2WEBPR22"></ProductionServer>
+    <ProductionServer name="MISDC2WEBPR23"></ProductionServer>
+    <ProductionServer name="MISDC2WEBPR24"></ProductionServer>
+    <ProductionServer name="MISDC2WEBPR25"></ProductionServer>
+    <ProductionServer name="MISDC2WEBPR26"></ProductionServer>
+    <ProductionServer name="MISDC2WEBPR27"></ProductionServer>
+    <ProductionServer name="MISDC2WEBPR28"></ProductionServer>
+    <ProductionServer name="MISDC2WEBPR29"></ProductionServer>
+    <ProductionServer name="MISDC1WEBPR21"></ProductionServer>
+    <ProductionServer name="MISDC1WEBPR22"></ProductionServer>
+    <ProductionServer name="MISDC1WEBPR23"></ProductionServer>
+    <ProductionServer name="MISDC1WEBPR24"></ProductionServer>
+    <ProductionServer name="MISDC1WEBPR25"></ProductionServer>
+    <ProductionServer name="MISDC1WEBPR26"></ProductionServer>
+    <ProductionServer name="MISDC1WEBPR27"></ProductionServer>
+    <ProductionServer name="MISDC1WEBPR28"></ProductionServer>
+    <ProductionServer name="MISDC1WEBPR29"></ProductionServer>
+  </Servers>
+</pages>

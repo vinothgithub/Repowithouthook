@@ -1,0 +1,144 @@
+Thu Apr 05 17:20:30 IST 2012
+
+Executing : [null, newSession {"desiredCapabilities":"Capabilities [{platform=XP, browserName=firefox, chrome.switches=[--disable-geolocation], version=9}]"}]
+
+Thu Apr 05 17:20:30 IST 2012
+
+Executing : [1333621523311, implicitlyWait {"ms":30000}]
+
+Thu Apr 05 17:21:10 IST 2012
+
+Executing : [1333621523311, get {"url":"http://store.apple.com/us/browse/home/shop_ipad/family/ipad/select"}]
+
+Thu Apr 05 17:21:12 IST 2012
+
+Executing : [1333621523311, getCurrentUrl {}]drt
+
+Thu Apr 05 17:21:23 IST 2012
+
+Executing : [1333621523311, get {"url":"http://www.apple.com/"}]
+
+Thu Apr 05 17:21:25 IST 2012
+
+Executing : [1333621523311, get {"url":"http://store.apple.com/us/browse/home/shop_ipad/family/ipad/select"}]
+
+Thu Apr 05 17:21:26 IST 2012
+
+Executing : [1333621523311, getCurrentWindowHandle {}]
+
+Thu Apr 05 17:21:26 IST 2012
+
+Executing : [1333621523311, executeScript {"script":"javascript:(window.open(\"\",\"stats_debugger\",\"width=600,height=600,location=0,menubar=0,status=1,toolbar=0,resizable=1,scrollbars=1\").document.write(\"<script language='JavaScript' src='http://sitecatalyst.omniture.com/sc_tools/stats_debugger.html'><\/script>\"));","args":[]}]
+
+Thu Apr 05 17:21:26 IST 2012
+
+Executing : [1333621523311, getWindowHandles {}]ewrrerwr
+
+Thu Apr 05 17:21:26 IST 2012
+
+Executing : [1333621523311, switchToWindow {"name":"{4a32eee6-e77d-4d47-8886-9a4f924fbb78}"}]
+
+Thu Apr 05 17:21:28 IST 2012
+
+Executing : [1333621523311, findElement {"using":"name","value":"url_decode"}]
+
+Thu Apr 05 17:21:28 IST 2012
+
+Executing : [1333621523311, isElementSelected {"id":"0"}]
+
+Thu Apr 05 17:21:29 IST 2012
+
+Executing : [1333621523311, clickElement {"id":"0"}]
+
+Thu Apr 05 17:21:29 IST 2012
+
+Executing : [1333621523311, isElementSelected {"id":"0"}]
+
+Thu Apr 05 17:21:32 IST 2012
+
+Executing : [1333621523311, getPageSource {}]
+
+Thu Apr 05 17:21:32 IST 2012
+
+Executing : [1333621523311, close {}]
+
+Thu Apr 05 17:21:32 IST 2012
+
+Executing : [1333621523311, switchToWindow {"name":"{e533ea2b-6882-437a-b5e8-ae8cf2f665fa}"}]
+
+Thu Apr 05 17:21:32 IST 2012
+
+Executing : [1333621523311, close {}]
+
+Thu Apr 05 17:21:40 IST 2012
+
+Executing : [null, newSession {"desiredCapabilities":"Capabilities [{platform=XP, browserName=firefox, chrome.switches=[--disable-geolocation], version=9}]"}]
+
+Thu Apr 05 17:21:40 IST 2012
+
+Executing : [1333621523312, implicitlyWait {"ms":30000}]
+
+Thu Apr 05 17:21:55 IST 2012
+
+Executing : [1333621523312, get {"url":"http://store.apple.com/us/browse/home/shop_iphone/family/iphone/iphone4s"}]
+
+Thu Apr 05 17:22:02 IST 2012
+
+Executing : [1333621523312, getCurrentUrl {}]
+
+Thu Apr 05 17:22:06 IST 2012
+
+Executing : [1333621523312, get {"url":"http://www.apple.com/"}]
+
+Thu Apr 05 17:22:07 IST 2012
+
+Executing : [1333621523312, get {"url":"http://store.apple.com/us/browse/home/shop_iphone/family/iphone/iphone4s"}]
+
+Thu Apr 05 17:22:10 IST 2012
+
+Executing : [1333621523312, getCurrentWindowHandle {}]
+
+Thu Apr 05 17:22:10 IST 2012
+
+Executing : [1333621523312, executeScript {"script":"javascript:(window.open(\"\",\"stats_debugger\",\"width=600,height=600,location=0,menubar=0,status=1,toolbar=0,resizable=1,scrollbars=1\").document.write(\"<script language='JavaScript' src='http://sitecatalyst.omniture.com/sc_tools/stats_debugger.html'><\/script>\"));","args":[]}]
+
+Thu Apr 05 17:22:10 IST 2012
+
+Executing : [1333621523312, getWindowHandles {}]
+
+Thu Apr 05 17:22:10 IST 2012
+
+Executing : [1333621523312, switchToWindow {"name":"{e98ef59e-1208-47fc-8d1f-6c03bf478b18}"}]
+
+Thu Apr 05 17:22:12 IST 2012
+
+Executing : [1333621523312, findElement {"using":"name","value":"url_decode"}]
+
+Thu Apr 05 17:22:12 IST 2012
+
+Executing : [1333621523312, isElementSelected {"id":"0"}]
+
+Thu Apr 05 17:22:12 IST 2012
+
+Executing : [1333621523312, clickElement {"id":"0"}]
+
+Thu Apr 05 17:22:12 IST 2012
+
+Executing : [1333621523312, isElementSelected {"id":"0"}]
+
+Thu Apr 05 17:22:15 IST 2012
+
+Executing : [1333621523312, getPageSource {}]
+
+Thu Apr 05 17:22:15 IST 2012
+
+Executing : [1333621523312, close {}]
+
+Thu Apr 05 17:22:15 IST 2012
+
+Executing : [1333621523312, switchToWindow {"name":"{11faf84f-400a-4b3e-9fee-a5b51cf3a689}"}]
+
+Thu Apr 05 17:22:16 IST 2012
+
+Executing : [1333621523312, quit {}] ....vinoth..kumar
+

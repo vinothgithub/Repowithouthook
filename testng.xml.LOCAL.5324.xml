@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <parameter name="requestId"  value="888"/>
+ <parameter name="reportPath" value="Reports\" /> 
+ <parameter name="Environment"  value="external"/>
+ <parameter name="ExecutionType"  value="Serial"/>
+ 	<test name="ModifyAddress_chrome" preserve-order="true">
+    <parameter name="browser"  value="ff"/>
+  	<parameter name="browserVersion"  value="12"/>
+  	<parameter name="os"  value="xp"/>
+  	<parameter name="dataSource"  value="AppleOmniuteData.xls"/>
+  	<classes>
+      <class name="Test.Omniture"/>
+      	<methods>
+        	  <include name="OmniuteDemoScript1"/>
+        </methods>
+    </classes>
+   </test>
+</suite>
+
