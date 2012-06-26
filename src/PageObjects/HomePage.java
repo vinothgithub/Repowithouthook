@@ -2,7 +2,7 @@ package PageObjects;
 
 public class HomePage {
 	public static String getAppleURL(){
-		return "http://www.apples.com/";
+		return "http://www.apples.co.in/";
 	}
 	public static String getMagentoURL(){
 		return "http://www.magento-mall.com";
